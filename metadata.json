@@ -1,0 +1,10 @@
+{
+  "name": "ProcFlow AI",
+  "description": "Transform client meeting transcripts into visual workflows and documented standard operating procedures automatically.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
